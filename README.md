@@ -11,7 +11,7 @@ We have built the most of functions of this assginment project, including:
 - [ ] Get the information of current account
 - [ ] Chat with your friend
 - [ ] Create a new group
-- [ ] Chat with your group member
+- [ ] Chat with your group members
 
 ![avatar](https://github.com/alamcat/loschat/blob/master/Other/loschat1.jpg)
 ![avatar](https://github.com/alamcat/loschat/blob/master/Other/loschat2.jpg)
