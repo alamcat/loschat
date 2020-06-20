@@ -1,5 +1,8 @@
 # LosChat
-LosChat is a kind of chatting application using the TCP protocol, PostgreSQL and Java.
+LosChat is a toy chatting application written with TCP protocol, PostgreSQL and Java, which was my coursework of Software Workshop in 2020. I wrote this project with my group members Wenbin HU, Yan Wang, Yongqi Han and Zongshi Li. Thanks for their contributions.
+
+This project is UNFINISHED and STOPPED before testing, which means it may contains some bugs in different parts.
+
 We have built the most of functions of this assginment project, including:
 
 - [ ] Register a new account
